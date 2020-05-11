@@ -1,0 +1,60 @@
+Tag;Description
+101;Goal
+102;Own goal
+301;Assist
+302;Key pass
+1901;Counter attack
+401;Left foot
+402;Right foot
+403;Head/body
+1101;Direct
+1102;Indirect
+2001;Dangerous ball lost
+2101;Blocked
+801;High
+802;Low
+1401;Interception
+1501;Clearance
+201;Opportunity
+1301;Feint
+1302;Missed ball
+501;Free space right
+502;Free space left
+503;Take on left
+504;Take on right
+1601;Sliding tackle
+601;Anticipated
+602;Anticipation
+1701;Red card
+1702;Yellow card
+1703;Second yellow card
+1201;Position: Goal low center
+1202;Position: Goal low right
+1203;Position: Goal center
+1204;Position: Goal center left
+1205;Position: Goal low left
+1206;Position: Goal center right
+1207;Position: Goal high center
+1208;Position: Goal high left
+1209;Position: Goal high right
+1210;Position: Out low right
+1211;Position: Out center left
+1212;Position: Out low left
+1213;Position: Out center right
+1214;Position: Out high center
+1215;Position: Out high left
+1216;Position: Out high right
+1217;Position: Post low right
+1218;Position: Post center left
+1219;Position: Post low left
+1220;Position: Post center right
+1221;Position: Post high center
+1222;Position: Post high left
+1223;Position: Post high right
+901;Through
+1001;Fairplay
+701;Lost
+702;Neutral
+703;Won
+1801;Accurate
+1802;Not accurate
