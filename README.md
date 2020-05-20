@@ -61,7 +61,6 @@ Each data set is provided in JSON format (JavaScript Object Notation). The follo
 - Spatial distribution of events
 - Intra-match evolution
 - Advanced statistics
-  - Invasion and acceleration indeces
   - Passing networks
   - Flow centrality
   - PlayeRank algorithm
