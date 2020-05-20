@@ -23,8 +23,8 @@ from scipy.integrate import quad
 import matplotlib.pyplot as plt 
 
 ACCURATE_PASS = 1801
-EVENT_TYPES = ['Duel', 'Foul', 'Free Kick', 'Interruption', 
-             'Offside', 'Others on the ball', 'Pass', 'Shot']
+EVENT_TYPES = ['Duel', 'Foul', 
+             'Offside', 'Shot']
 
 TOURNAMENTS=['Italy','England','Germany', 'France', 
              'Spain', 'European_Championship','World_Cup']
