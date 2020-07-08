@@ -4,6 +4,9 @@
 
 Tutorial supported by EU project <a href="https://cordis.europa.eu/project/id/871042">SoBigData++</a> RI (Grant Agreement 871042).
 
+A video version of the tutorial is available on YouTube at:
+- https://www.youtube.com/watch?v=ZXEHPKmx410&t=430s (Luca Pappalardo)
+- https://www.youtube.com/watch?v=TCyahs5HRMM (Paolo Cintia)
 
 The code has been developed by:
 - Luca Pappalardo, National Research Council of Italy (CNR), luca.pappalardo@isti.cnr.it
