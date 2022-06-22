@@ -18,7 +18,7 @@ networkx == 2.4
 # playerank/playerank/models/Weighter.py: 12
 # plot_utils.py: 7
 # utils.py: 4
-numpy == 1.18.1
+numpy == 1.22.0
 
 # Code_plot.py: 1025,1054,1302
 # metrics.py: 1
