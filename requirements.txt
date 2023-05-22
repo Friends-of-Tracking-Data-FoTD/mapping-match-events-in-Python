@@ -39,7 +39,7 @@ plotly == 4.6.0
 # build/lib/playerank/data_download.py: 13
 # playerank/data_download.py: 13
 # utils.py: 201
-requests == 2.23.0
+requests == 2.31.0
 
 # playerank/playerank/models/Clusterer.py: 19,20,22,23
 # playerank/playerank/models/Rater.py: 5
