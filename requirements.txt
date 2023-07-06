@@ -48,7 +48,7 @@ scikit_learn == 0.22.2.post1
 
 # playerank/playerank/models/Clusterer.py: 4,5,14
 # utils.py: 19,20,21,22
-scipy == 1.4.1
+scipy == 1.10.0
 
 # plot_utils.py: 5
 # utils.py: 7
